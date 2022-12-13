@@ -4320,8 +4320,8 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
 
 randomatic@^3.0.0:
   version "3.1.1"
@@ -4685,6 +4685,10 @@ rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.2:
 rimraf@~2.2.6:
   version "2.2.8"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
+
+rn-toggle-switch@^1.0.1:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/rn-toggle-switch/-/rn-toggle-switch-1.0.2.tgz#72247b2de0efe9ca79e1ed4d15863e5de4ba907c"
 
 rsvp@^3.3.3:
   version "3.6.2"
